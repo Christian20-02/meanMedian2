@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+// Assignment 2 program - Product-of-two equals third
+
+
+>>>>>>> new-feature
 const readline = require("readline");
 
 const rl = readline.createInterface({
